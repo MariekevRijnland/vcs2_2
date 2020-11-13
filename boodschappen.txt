@@ -4,3 +4,8 @@ Pizza:
 - Mozzarella
 - Permazaanse kaas
 - Rucola
+
+Ontbijt:
+- Eieren
+- Brood
+- Sinaasappelsap
