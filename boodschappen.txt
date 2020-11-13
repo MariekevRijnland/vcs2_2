@@ -3,4 +3,5 @@ Pizza:
 - Tomatensaus
 - Mozzarella
 - Permazaanse kaas
+- Blauwe kaas
 - Rucola
